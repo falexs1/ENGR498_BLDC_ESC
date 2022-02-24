@@ -5844,12 +5844,12 @@ Source: AVX .. aphvc.pdf</description>
 <errors>
 <approved hash="104,1,50.8,25.4,U2,VREF,N$15,,,"/>
 <approved hash="104,1,106.68,45.72,U2,DVDD,N$1,,,"/>
-<approved hash="113,1,140.97,53.1653,C1,,,,,"/>
-<approved hash="113,1,8.89,67.4847,C2,,,,,"/>
-<approved hash="113,1,6.35,49.7047,C3,,,,,"/>
-<approved hash="113,1,140.97,36.6553,C4,,,,,"/>
-<approved hash="113,1,11.43,24.3047,C5,,,,,"/>
-<approved hash="113,1,-3.81,57.3247,C6,,,,,"/>
+<approved hash="113,1,140.97,53.1463,C1,,,,,"/>
+<approved hash="113,1,8.89,67.5037,C2,,,,,"/>
+<approved hash="113,1,6.35,49.7237,C3,,,,,"/>
+<approved hash="113,1,140.97,36.6363,C4,,,,,"/>
+<approved hash="113,1,11.43,24.3237,C5,,,,,"/>
+<approved hash="113,1,-3.81,57.3437,C6,,,,,"/>
 </errors>
 </schematic>
 </drawing>
