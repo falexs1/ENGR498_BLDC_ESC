@@ -103,7 +103,7 @@
 <text x="24.511" y="5.334" size="1.778" layer="21" align="bottom-center">22</text>
 <text x="24.511" y="2.667" size="1.778" layer="21" align="bottom-center">21</text>
 <text x="24.511" y="8.001" size="1.778" layer="21" align="bottom-center">23</text>
-<text x="12.7" y="55.88" size="1.778" layer="21">PadMod</text>
+<text x="12.7" y="55.88" size="1.778" layer="21">PadMod v2</text>
 </plain>
 <libraries>
 <library name="Modified_Header">
